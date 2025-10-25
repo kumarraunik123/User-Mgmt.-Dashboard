@@ -17,3 +17,13 @@ A simple React.js User Management Dashboard where you can:
 ```bash
 npm install
 npm run dev
+src/
+ ┣ components/
+ ┃ ┗ Navbar.jsx
+ ┃ ┗ Footer.jsx
+ ┣ pages/
+ ┃ ┗ Home.jsx
+ ┃ ┗ AddUser.jsx
+ ┃ ┗ UserDetails.jsx
+ ┣ App.jsx
+ ┗ main.jsx
