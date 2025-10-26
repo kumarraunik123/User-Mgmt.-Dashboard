@@ -3,7 +3,6 @@
 A simple React.js User Management Dashboard where you can:
 - Add new users
 - View user details
-- Delete and edit users
 - Switch between light/dark mode
 - Get toast notifications
 
@@ -27,3 +26,22 @@ src/
  ┃ ┗ UserDetails.jsx
  ┣ App.jsx
  ┗ main.jsx
+
+ ## 📸 Screenshots
+
+
+### 📊 Dashboard
+![Dashboard](./public/assets/Image/dashboard.png)
+
+### Add User
+![Add User](./public/assets/Image/adduser%20form.png)
+
+### Add User in Dark Mode
+![Add user darkMode](./public/assets/Image/adduser%20in%20dark%20mode.png)
+
+### Validation With Toster
+![Validation](./public/assets/Image/Validation%20Toster.png)
+
+### Footer 
+![Footer](./public/assets/Image/Footer.png)
+
